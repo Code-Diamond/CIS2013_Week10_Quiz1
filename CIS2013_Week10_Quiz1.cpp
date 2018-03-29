@@ -8,6 +8,8 @@
 #include <string.h>
 #include <cmath>
 
+// Just a check
+
 using namespace std;
 
 //Functions
